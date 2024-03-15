@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676804074 source:c:\users\sellami\desktop\workspace poly jour\asd-2022-2023\s2\td2\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArbreFcts.h"
+
+1676804277 c:\users\sellami\desktop\workspace poly jour\asd-2022-2023\s2\td2\ex5\arbrefcts.h
+

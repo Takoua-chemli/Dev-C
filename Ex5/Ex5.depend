@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1671924926 source:c:\users\sellami\desktop\workspace iit\td2\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Filefcts.h"
+
+1671925055 c:\users\sellami\desktop\workspace iit\td2\ex5\filefcts.h
+
+1671924926 source:c:\users\sellami\desktop\workspace poly jour\asd-2022-2023\s2\td1\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Filefcts.h"
+
+1671925055 c:\users\sellami\desktop\workspace poly jour\asd-2022-2023\s2\td1\ex5\filefcts.h
+
+1707750738 source:c:\users\xpristo\desktop\workspace poly jour\asd 2022-2024\s2\td1\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Filefcts.h"
+
+1707750716 c:\users\xpristo\desktop\workspace poly jour\asd 2022-2024\s2\td1\ex5\filefcts.h
+

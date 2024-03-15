@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671611398 source:c:\users\sellami\desktop\workspace iit\td2\ex1-1seulpointeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilefcts.h"
+
+1671918480 c:\users\sellami\desktop\workspace iit\td2\ex1-1seulpointeur\pilefcts.h
+
+1675116015 source:c:\users\sellami\desktop\workspace poly jour\asd-2022-2023\s2\td1\ex1-1seulpointeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilefcts.h"
+
+1675115951 c:\users\sellami\desktop\workspace poly jour\asd-2022-2023\s2\td1\ex1-1seulpointeur\pilefcts.h
+
+1707647016 source:c:\users\xpristo\desktop\workspace poly jour\asd 2022-2024\s2\td1\ex1-1seulpointeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilefcts.h"
+
+1707682214 c:\users\xpristo\desktop\workspace poly jour\asd 2022-2024\s2\td1\ex1-1seulpointeur\pilefcts.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1671919932 source:c:\users\sellami\desktop\workspace iit\td2\ex4\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilefcts.h"
+
+1671920167 c:\users\sellami\desktop\workspace iit\td2\ex4\ex4\pilefcts.h
+
